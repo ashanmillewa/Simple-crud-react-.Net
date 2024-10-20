@@ -1,0 +1,192 @@
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\DMS.exe
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\DMS.deps.json
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\DMS.runtimeconfig.json
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Desktop\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.csproj.AssemblyReference.cache
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfoInputs.cache
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfo.cs
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.DMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.build.DMS.props
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMS.props
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMS.props
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\scopedcss\bundle\DMS.styles.css
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.csproj.Up2Date
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\refint\DMS.dll
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\DMS.genruntimeconfig.cache
+C:\Users\ashan\Desktop\DMS\DMS\obj\Debug\net8.0\ref\DMS.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\appsettings.Development.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\appsettings.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.exe
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.deps.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.runtimeconfig.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.pdb
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\MySqlConnector.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.AssemblyReference.cache
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfoInputs.cache
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfo.cs
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.CoreCompileInputs.cache
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.sourcelink.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.DMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.build.DMS.props
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMS.props
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMS.props
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\scopedcss\bundle\DMS.styles.css
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.Up2Date
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\refint\DMS.dll
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.pdb
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.genruntimeconfig.cache
+D:\Quantrax_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\ref\DMS.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\appsettings.Development.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\appsettings.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.exe
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.deps.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.runtimeconfig.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\DMS.pdb
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\MySqlConnector.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.AssemblyReference.cache
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfoInputs.cache
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfo.cs
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.CoreCompileInputs.cache
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.sourcelink.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.DMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.build.DMS.props
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMS.props
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMS.props
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\scopedcss\bundle\DMS.styles.css
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.Up2Date
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\refint\DMS.dll
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.pdb
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\DMS.genruntimeconfig.cache
+D:\Ashan_Projects\DMS_backend\DMS\DMS\obj\Debug\net8.0\ref\DMS.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\DMS.exe
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\DMS.deps.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\DMS.runtimeconfig.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.csproj.AssemblyReference.cache
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfoInputs.cache
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfo.cs
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.DMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.build.DMS.props
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMS.props
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMS.props
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\scopedcss\bundle\DMS.styles.css
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.csproj.Up2Date
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\refint\DMS.dll
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\DMS.genruntimeconfig.cache
+C:\Users\ashan\Desktop\DMS_backend-development\DMS\DMS\obj\Debug\net8.0\ref\DMS.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\DMS.exe
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\DMS.deps.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\DMS.runtimeconfig.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.AssemblyReference.cache
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfoInputs.cache
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.AssemblyInfo.cs
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.DMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.build.DMS.props
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMS.props
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMS.props
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\scopedcss\bundle\DMS.styles.css
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.csproj.Up2Date
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\refint\DMS.dll
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.pdb
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\DMS.genruntimeconfig.cache
+C:\Users\ashan\Desktop\complete simple cruds\DMS_Backend\DMS\DMS\obj\Debug\net8.0\ref\DMS.dll
